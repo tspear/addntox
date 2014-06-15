@@ -1,18 +1,16 @@
 body {
 	background-color: #000000;
 	color: #FF0000;
-	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	padding: 20px;
 }
 
 a, a:hover {
 color:#CCCCCC;
 }
 
-H1{
+h1 {
 	font-size: 3em;
 }
 
-#video{
+#video {
 	width: 972px;
 }
